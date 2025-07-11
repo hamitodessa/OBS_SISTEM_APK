@@ -34,12 +34,12 @@ android:background="@drawable/edittext_bg"
     app:layout_constraintStart_toStartOf="parent"
     app:layout_constraintEnd_toEndOf="parent" />
 
-    <!-- Şifre -->
+    <!-- Sifre -->
 <EditText
 android:id="@+id/edtPassword"
 android:layout_width="0dp"
 android:layout_height="wrap_content"
-android:hint="Şifreniz"
+android:hint="Sifre"
 android:inputType="textPassword"
 android:background="@drawable/edittext_bg"
 android:padding="12dp"
